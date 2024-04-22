@@ -29,7 +29,6 @@ Para conectar las capas 1 y 2, se necesitan 3⋅5=15 aristas.
 Para conectar las capas 2 y 3, se necesitan 5⋅2=10 aristas.
 Para conectar las capas 3 y 4, se necesitan 2⋅7=14 aristas.
 Por lo tanto, el número total de aristas necesarias es 15+10+14=39.
-```
 
 **Enlace al problema:**
 [https://codeforces.com/gym/105123/problem/B](https://codeforces.com/gym/105123/problem/B)
