@@ -1,4 +1,4 @@
-# Mis Soluciones de ejercicios de Programación Competitiva por Damian Zsiros
+# Mis Soluciones de ejercicios de Programación Competitiva 
 
 Este repositorio contiene las soluciones a una variedad de problemas de programación competitiva de plataformas populares como Codeforces y Virtual Judge. Las soluciones están escritas en varios lenguajes de programación como C++, Python, Java, entre otros.
 
